@@ -25,9 +25,9 @@
 ###
 
 <div align="left" >
-  <img  alt="GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api?username=onlydiogo&show_icons=true&theme=midnight-purple&include_all_commits=true&locale=pt-br" />
+  <img  alt="GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api?username=diogodb12&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" />
 
-<img alt="GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlydiogo&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=9" />
+<img alt="GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogodb12&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" />
 
 </div>
 
