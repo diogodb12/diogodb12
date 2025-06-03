@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Diogo Dantas, tenho 21 anos e sou natural de Santos-SP.<br><br>Curso Sistemas de Informação pela Universidade Católica de Santos e atualmente estou no 3° Semestre.</p>
+<p align="left">Me chamo Diogo Dantas, tenho 21 anos e sou natural de Santos-SP.<br><br>Curso Sistemas de Informação pela Universidade Católica de Santos.</p>
 
 ###
 
