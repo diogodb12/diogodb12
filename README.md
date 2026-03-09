@@ -30,8 +30,6 @@
 <div align="left" >
 
 
-<img alt="GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogodb12&theme=dark&layout=compact&custom_title=Repositórios&langs_count=9" />
-
 </div>
 
 ###
